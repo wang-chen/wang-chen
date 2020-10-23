@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Chen Wang 👋
 
-<!--
-**wang-chen/wang-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a postdoctoral fellow at the Robotics Institute, Carnegie Mellon University (CMU).
 
-Here are some ideas to get you started:
+My research interests include robot perception, vision, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Find me elsewhere 🌎
+
+[![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=vZfmKl4AAAAJ&hl=en&oi=sra)](https://scholar.google.com/citations?user=vZfmKl4AAAAJ&hl=en&oi=sra)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wang-chen/)](https://www.linkedin.com/in/wang-chen/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DrChenWang)](https://twitter.com/DrChenWang)
+[![Twitter Badge](https://img.shields.io/badge/-YouTube-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCA-y9bZJsV9JAHQ9VnRBplg)](https://www.youtube.com/channel/UCA-y9bZJsV9JAHQ9VnRBplg)
