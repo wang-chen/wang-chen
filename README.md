@@ -2,10 +2,7 @@
 
 I am currently a postdoctoral fellow at the Robotics Institute, Carnegie Mellon University (CMU).
 
-My research interests include 
- - 🤖 robot perception 
- - 👀 computer vision
- - 📖 machine learning
+My research interests include 🤖 robot perception, 👀 computer vision, and 📖 machine learning
 
 Browse all my GitHub repos and find your interesting ones! Here is a quick overview:
 
