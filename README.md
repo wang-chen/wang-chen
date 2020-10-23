@@ -2,7 +2,20 @@
 
 I am currently a postdoctoral fellow at the Robotics Institute, Carnegie Mellon University (CMU).
 
-My research interests include robot perception, vision, and machine learning.
+My research interests include 
+ - 🤖 robot perception 
+ - 👀 computer vision
+ - 📖 machine learning
+
+Browse all my GitHub repos and find your interesting ones! Here is a quick overview:
+
+- Robotics: [localization](https://github.com/wang-chen/localization), [interestingness_ros](https://github.com/wang-chen/interestingness_ros), [formation](https://github.com/wang-chen/formation), [uwb_driver](https://github.com/wang-chen/uwb_driver)
+
+- Vision: [interestingness](https://github.com/wang-chen/interestingness), [correlation_flow](https://github.com/wang-chen/correlation_flow)
+
+- Learning: [Kervolution](https://github.com/wang-chen/kervolution), [Kernel Cross-Correlator](https://github.com/wang-chen/KCC)
+
+- Others: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
 
 
 ### Find me elsewhere 🌎
