@@ -2,7 +2,7 @@
 
 I am currently a [postdoctoral fellow](https://scholars.cmu.edu/8810-chen-wang) at the [Robotics Institute](https://www.ri.cmu.edu), [Carnegie Mellon University](https://cmu.edu) (CMU).
 
-My research interests include 🤖 robot perception, 👀 computer vision, and 📖 machine learning
+My research interests include 🤖 Robot Perception, 👀 Computer Vision, and 📖 Machine Learning.
 
 #### Browse all my GitHub repos and find your interesting ones! Here is a quick overview:
 
