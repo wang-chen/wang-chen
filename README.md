@@ -1,10 +1,10 @@
 ### Hi there, I am Chen Wang 👋
 
-I am currently a postdoctoral fellow at the [Robotics Institute](https://www.ri.cmu.edu), [Carnegie Mellon University](https://cmu.edu) (CMU).
+I am currently a [postdoctoral fellow](https://scholars.cmu.edu/8810-chen-wang) at the [Robotics Institute](https://www.ri.cmu.edu), [Carnegie Mellon University](https://cmu.edu) (CMU).
 
 My research interests include 🤖 robot perception, 👀 computer vision, and 📖 machine learning
 
-Browse all my GitHub repos and find your interesting ones! Here is a quick overview:
+#### Browse all my GitHub repos and find your interesting ones! Here is a quick overview:
 
 - Robotics: [localization](https://github.com/wang-chen/localization), [formation](https://github.com/wang-chen/formation), [uwb_driver](https://github.com/wang-chen/uwb_driver), [interestingness_ros](https://github.com/wang-chen/interestingness_ros)
 
