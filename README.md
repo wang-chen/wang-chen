@@ -4,13 +4,13 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 
 #### Browse all my repos and find your interesting ones! Here is a quick overview:
 
-- Robotics: [localization](https://github.com/wang-chen/localization) (IROS), [formation](https://github.com/wang-chen/formation) (T-Cyber), [uwb_driver](https://github.com/wang-chen/uwb_driver), [interestingness_ros](https://github.com/wang-chen/interestingness_ros) (ECCV)
+- **Robotics**: [localization](https://github.com/wang-chen/localization) (IROS), [formation](https://github.com/wang-chen/formation) (T-Cyber), [uwb_driver](https://github.com/wang-chen/uwb_driver), [interestingness_ros](https://github.com/wang-chen/interestingness_ros) (ECCV)
 
-- Vision: [interestingness](https://github.com/wang-chen/interestingness) (ECCV), [correlation_flow](https://github.com/wang-chen/correlation_flow) (ICRA)
+- **Vision**: [interestingness](https://github.com/wang-chen/interestingness) (ECCV), [correlation_flow](https://github.com/wang-chen/correlation_flow) (ICRA)
 
-- Learning: [Kervolution](https://github.com/wang-chen/kervolution) (CVPR), [Kernel Cross-Correlator](https://github.com/wang-chen/KCC) (AAAI)
+- **Learning**: [Kervolution](https://github.com/wang-chen/kervolution) (CVPR), [Kernel Cross-Correlator](https://github.com/wang-chen/KCC) (AAAI)
 
-- Others: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
+- **Others**: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
 
 
 ### Find me elsewhere 🌎
