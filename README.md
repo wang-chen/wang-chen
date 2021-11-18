@@ -11,7 +11,7 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
   - [uwb_driver](https://github.com/wang-chen/uwb_driver): UWB driver compatible with [localization](https://github.com/wang-chen/localization) package
 
 - **Vision**: 
-  - [interestingness](https://github.com/wang-chen/interestingness) (ECCV): Interesting Scene Recognition PyTorch Package
+  - [interestingness](https://github.com/wang-chen/interestingness) (ECCV/TRO): Interesting Scene Recognition PyTorch Package
   - [correlation_flow](https://github.com/wang-chen/correlation_flow) (ICRA): Robust and efficient optical flow C++ Package
   - [AirCode](https://github.com/wang-chen/AirCode): Robust Object Encoding Python Package
 
