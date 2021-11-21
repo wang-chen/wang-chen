@@ -16,7 +16,7 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
   - [AirCode](https://github.com/wang-chen/AirCode): Robust Object Encoding Python Package
 
 - **Learning**:
-  - Lifelong Graph Learning: [Citation Graphs](https://github.com/wang-chen/LGL), [Human Action Recognition](https://github.com/wang-chen/lgl-action-recognition), [Feature Matching](https://github.com/wang-chen/lgl-action-recognition)
+  - Lifelong Graph Learning: [Citation Graph](https://github.com/wang-chen/LGL), [Action Recognition](https://github.com/wang-chen/lgl-action-recognition), [Feature Matching](https://github.com/wang-chen/lgl-action-recognition)
   - [Kervolution](https://github.com/wang-chen/kervolution) (CVPR): A generlized operator for convolution
   - [Kernel Cross-Correlator](https://github.com/wang-chen/KCC) (AAAI): The first correlation filter that is equivariant to affine transform.
   - [AirLoop](https://github.com/wang-chen/AirLoop): The first lifelong loop closure detection method
