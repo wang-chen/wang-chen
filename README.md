@@ -12,12 +12,12 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 
 - **Vision**: 
   - [interestingness](https://github.com/wang-chen/interestingness) (ECCV/TRO): Interesting Scene Recognition PyTorch Package
+  - [Kervolution](https://github.com/wang-chen/kervolution) (CVPR): A generlized operator for convolution
   - [correlation_flow](https://github.com/wang-chen/correlation_flow) (ICRA): Robust and efficient optical flow C++ Package
   - [AirCode](https://github.com/wang-chen/AirCode): Robust Object Encoding Python Package
 
 - **Learning**:
   - Lifelong Graph Learning: [Citation Graph](https://github.com/wang-chen/LGL), [Action Recognition](https://github.com/wang-chen/lgl-action-recognition), [Feature Matching](https://github.com/wang-chen/lgl-feature-matching)
-  - [Kervolution](https://github.com/wang-chen/kervolution) (CVPR): A generlized operator for convolution
   - [Kernel Cross-Correlator](https://github.com/wang-chen/KCC) (AAAI): The first correlation filter that is equivariant to affine transform.
   - [AirLoop](https://github.com/wang-chen/AirLoop): The first lifelong loop closure detection method
 
