@@ -7,7 +7,7 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 - **Robotics**: 
   - [localization](https://github.com/wang-chen/localization) (IROS): Range-based localization ROS Package
   - [formation](https://github.com/wang-chen/formation) (T-Cyber): Multi-robot formation ROS Package
-  - [interestingness_ros](https://github.com/wang-chen/interestingness_ros) (ECCV): Interesting Scene Recognition ROS Package
+  - [interestingness_ros](https://github.com/wang-chen/interestingness_ros) ([ros2](https://github.com/wang-chen/interestingness_ros2)) (ECCV): Interesting Scene Recognition ROS Package
   - [uwb_driver](https://github.com/wang-chen/uwb_driver): UWB driver compatible with [localization](https://github.com/wang-chen/localization) package
 
 - **Vision**: 
