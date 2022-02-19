@@ -19,7 +19,7 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 - **Learning**:
   - Lifelong Graph Learning: [Citation Graph](https://github.com/wang-chen/LGL), [Action Recognition](https://github.com/wang-chen/lgl-action-recognition), [Feature Matching](https://github.com/wang-chen/lgl-feature-matching)
   - [Kernel Cross-Correlator](https://github.com/wang-chen/KCC) (AAAI): The first correlation filter that is equivariant to affine transform.
-  - [AirLoop](https://github.com/wang-chen/AirLoop): The first lifelong loop closure detection method
+  - [AirLoop](https://github.com/wang-chen/AirLoop) (ICRA): The first lifelong loop closure detection method
 
 - **Others**: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
 
