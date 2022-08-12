@@ -24,6 +24,12 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 - **Others**: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
 
 
+Starting from early 2022, I have been spending most of my spare time maintaining [PyPose](https://github.com/pypose).
+
+It is to connect classic robotics with modern learning methods.
+
+See its documentation at https://pypose.org/doc.
+
 ### Find me elsewhere 🌎
 
 [![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-1ca0f1?style=flat&labelColor=1ca0f1&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=vZfmKl4AAAAJ&hl=en&oi=sra)](https://scholar.google.com/citations?user=vZfmKl4AAAAJ&hl=en&oi=sra)
