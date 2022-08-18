@@ -26,7 +26,7 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 
 Starting from early 2022, I have been spending most of my spare time maintaining [PyPose](https://github.com/pypose).
 
-It is to connect classic robotics with modern learning methods.
+PyPose is to connect classic robotics with modern learning methods.
 
 See its documentation at https://pypose.org/doc.
 
