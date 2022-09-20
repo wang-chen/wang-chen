@@ -28,7 +28,7 @@ Starting from early 2022, I have been spending most of my spare time maintaining
 
 PyPose is to connect classic robotics with modern learning methods.
 
-See its documentation at https://pypose.org/doc.
+See its documentation at https://pypose.org/docs.
 
 ### Find me elsewhere 🌎
 
