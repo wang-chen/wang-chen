@@ -24,7 +24,7 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
 - **Others**: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
 
 
-Starting from early 2022, I have been spending most of my spare time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose)
+Starting from early 2022, I have been spending most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose)
 
 PyPose is to connect classic robotics with modern learning methods.
 
