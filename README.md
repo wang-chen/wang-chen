@@ -1,5 +1,7 @@
 ### Hi there, I am Chen Wang 👋
 
+# Starting in early 2022, I spent most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose). This page will not be updated.
+
 My research interests include 🤖 Robot Perception, 👀 Computer Vision, and 📖 Machine Learning.
 
 #### Browse all my repos and find your interesting ones! Here is a quick overview:
@@ -22,9 +24,6 @@ My research interests include 🤖 Robot Perception, 👀 Computer Vision, and �
   - [AirLoop](https://github.com/wang-chen/AirLoop) (ICRA): The first lifelong loop closure detection method
 
 - **Others**: [SubT dataset](https://github.com/wang-chen/SubT), [Git Helper](https://github.com/wang-chen/git), [NTU Thesis Template](https://github.com/wang-chen/thesis_template_ntu)
-
-#### Starting in early 2022, I spent most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose).
-
 
 ### Find me elsewhere 🌎
 
