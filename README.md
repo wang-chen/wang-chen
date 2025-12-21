@@ -1,8 +1,8 @@
 ### Hi there, I am Chen Wang 👋
 
-### I spent most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose).
+### I spend most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose).
 
-### Please follow [SAIR Lab GitHub page](https://github.com/sair-lab) to explore our latest research and projects.
+### Please also follow [SAIR Lab GitHub page](https://github.com/sair-lab) to explore our latest research and projects.
 
 ### Find me elsewhere 🌎
 
