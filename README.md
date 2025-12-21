@@ -1,6 +1,8 @@
 ### Hi there, I am Chen Wang 👋
 
-### Starting in early 2022, I spent most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose). Go to [SAIR Lab GitHub page](https://github.com/sair-lab) to explore our latest research and projects.
+### Starting in early 2022, I spent most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://github.com/pypose).
+
+### Follow [SAIR Lab GitHub page](https://github.com/sair-lab) to explore our latest research and projects.
 
 My research interests include 🤖 Robot Perception, 👀 Computer Vision, and 📖 Machine Learning.
 
