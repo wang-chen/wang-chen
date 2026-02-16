@@ -2,7 +2,7 @@
 
 ### I spend most of my time running [SAIR Lab](https://sairlab.org) and maintaining [PyPose](https://pypose.org).
 
-### Please follow GitHub accounts [[sair-lab]](https://github.com/sair-lab) and [[pypose]](https://github.com/pypose), where my latest research will be released.
+### Please also follow [[sair-lab]](https://github.com/sair-lab) and [[pypose]](https://github.com/pypose), where my latest research will be released.
 
 ### You can also find me elsewhere:
 
