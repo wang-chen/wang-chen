@@ -4,7 +4,7 @@
 
 ### Please follow GitHub accounts [[sair-lab]](https://github.com/sair-lab) and [[pypose]](https://github.com/pypose), where my latest research will be released.
 
-### Find me elsewhere 🌎
+### You can also find me elsewhere:
 
 [![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-1ca0f1?style=flat&labelColor=1ca0f1&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=vZfmKl4AAAAJ&hl=en&oi=sra)](https://scholar.google.com/citations?user=vZfmKl4AAAAJ&hl=en&oi=sra)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wang-chen/)](https://www.linkedin.com/in/wang-chen/)
